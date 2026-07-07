@@ -1,0 +1,280 @@
+{
+  "nav": {
+    "brand": "Shopify",
+    "home": "Home",
+    "products": "Products",
+    "cart": "Cart",
+    "dashboard": "Dashboard",
+    "checkout": "Checkout"
+  },
+  "search": {
+    "placeholder": "Search products...",
+    "hint": "Start typing to search products",
+    "noResults": "No products found"
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Stay in the loop",
+      "subtitle": "Get the latest updates on new products and exclusive offers.",
+      "placeholder": "Enter your email",
+      "cta": "Subscribe"
+    },
+    "brand": {
+      "description": "The all-in-one commerce platform to start, run, and grow your business online."
+    },
+    "sections": {
+      "store": "Store",
+      "merchant": "Merchant",
+      "company": "Company",
+      "support": "Support"
+    },
+    "copyright": "© {year} {brand} Inc. All rights reserved."
+  },
+  "hero": {
+    "badge": "Trusted by 1M+ merchants",
+    "title": "Commerce that scales with you",
+    "subtitle": "Launch your store in minutes. Manage products, orders, and customers from one powerful platform.",
+    "cta": "Start free trial",
+    "ctaSecondary": "View demo",
+    "scrollHint": "Explore features",
+    "cta_primary": "Start selling",
+    "cta_secondary": "View demo",
+    "dash_conversion": "3.2%",
+    "dash_customers": "2.5M+",
+    "dash_label": "Active merchants",
+    "dash_orders": "1.2B+",
+    "headline1": "The platform built for selling",
+    "headline2": "Everything you need to start, run, and grow your business",
+    "subtext": "Join millions of entrepreneurs using Shopify to create and scale their online stores.",
+    "trust1": "Trusted by 1M+ businesses",
+    "trust2": "99.99% uptime",
+    "trust3": "24/7 support"
+  },
+  "features": {
+    "title": "Everything you need to sell",
+    "subtitle": "From storefront to fulfillment, Shopify has every tool your business needs.",
+    "items": {
+      "storefront": {
+        "title": "Beautiful Storefronts",
+        "desc": "Choose from 100+ professionally designed themes and customize every detail."
+      },
+      "payments": {
+        "title": "Integrated Payments",
+        "desc": "Accept credit cards, PayPal, and 100+ payment gateways worldwide."
+      },
+      "analytics": {
+        "title": "Powerful Analytics",
+        "desc": "Track sales, traffic, and customer behavior with real-time dashboards."
+      },
+      "inventory": {
+        "title": "Inventory Management",
+        "desc": "Sync stock across all channels and get low-stock alerts automatically."
+      },
+      "shipping": {
+        "title": "Shipping & Fulfillment",
+        "desc": "Print labels, track orders, and offer competitive shipping rates."
+      },
+      "marketing": {
+        "title": "Marketing Tools",
+        "desc": "Run email campaigns, discount codes, and social media ads from one place."
+      }
+    },
+    "eyebrow": "Everything you need",
+    "heading": "Powerful tools for growing stores",
+    "subtext": "Manage inventory, payments, and customers from one dashboard."
+  },
+  "products": {
+    "title": "Featured Products",
+    "subtitle": "Handpicked items from our top merchants",
+    "viewAll": "View all products",
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "sale": "Sale",
+    "eyebrow": "Shop",
+    "heading": "Discover our collection",
+    "view_all": "View all products"
+  },
+  "stats": {
+    "merchants": "1M+",
+    "merchantsLabel": "Active merchants",
+    "countries": "175+",
+    "countriesLabel": "Countries supported",
+    "revenue": "$500B+",
+    "revenueLabel": "Total merchant revenue",
+    "uptime": "99.99%",
+    "uptimeLabel": "Platform uptime"
+  },
+  "cta": {
+    "title": "Ready to start selling?",
+    "subtitle": "Join over 1 million businesses that trust Shopify to power their commerce.",
+    "button": "Start your free trial",
+    "buttonSecondary": "Talk to sales",
+    "disclaimer": "No credit card required",
+    "heading": "Start your free trial",
+    "placeholder": "Enter your email",
+    "subtext": "Get instant access to all features. Cancel anytime."
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "emptyHint": "Add some products to get started.",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "Tax",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "remove": "Remove"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "contact": "Contact Information",
+    "shipping": {
+      "change": "Change",
+      "contact": "Contact",
+      "express": "Express",
+      "expressDetail": "Arrives in 2–3 business days",
+      "free": "Free",
+      "overnight": "Overnight",
+      "overnightDetail": "Arrives tomorrow",
+      "shipTo": "Ship to",
+      "standard": "Standard",
+      "standardDetail": "Arrives in 5–7 business days",
+      "title": "Shipping method"
+    },
+    "method": "Shipping Method",
+    "payment": {
+      "cardName": "Name on card",
+      "cardNumber": "Card number",
+      "cvv": "CVV",
+      "expiry": "Expiration date",
+      "sameAsBilling": "Billing address same as shipping",
+      "secureNote": "Your payment information is secure and encrypted.",
+      "title": "Payment method"
+    },
+    "summary": {
+      "apply": "Apply",
+      "couponApplied": "Coupon applied",
+      "couponPlaceholder": "Discount code or gift card",
+      "discount": "Discount",
+      "free": "FREE",
+      "shipping": "Shipping",
+      "subtotal": "Subtotal",
+      "tax": "Tax",
+      "title": "Order Summary",
+      "toggle": "Show details",
+      "total": "Total"
+    },
+    "placeOrder": "Place Order",
+    "email": "Email",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "zip": "ZIP code",
+    "country": "Country",
+    "cardNumber": "Card number",
+    "expiry": "MM / YY",
+    "cvv": "CVV",
+    "back": "Back",
+    "backToCart": "Back to cart",
+    "continue": "Continue",
+    "info": {
+      "address": "Address",
+      "apartment": "Apartment, suite, etc. (optional)",
+      "city": "City",
+      "contactTitle": "Contact information",
+      "emailOffers": "Email me with news and offers",
+      "emailPlaceholder": "Email",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "phone": "Phone",
+      "saveInfo": "Save this information for next time",
+      "shippingTitle": "Shipping address",
+      "state": "State",
+      "zip": "ZIP code"
+    },
+    "secureCheckout": "Secure checkout",
+    "success": {
+      "continueShopping": "Continue shopping",
+      "orderNumber": "Order number",
+      "subtitle": "A confirmation email has been sent to your inbox.",
+      "title": "Order confirmed",
+      "viewOrders": "View your orders"
+    },
+    "trust": {
+      "returns": "30-day returns",
+      "secure": "Secure checkout",
+      "ssl": "SSL encrypted"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "overview": "Overview",
+    "orders": "Orders",
+    "products": "Products",
+    "customers": "Customers",
+    "analytics": "Analytics",
+    "discounts": "Discounts",
+    "inventory": "Inventory",
+    "revenue": "Total Revenue",
+    "totalOrders": "Total Orders",
+    "newCustomers": "New Customers",
+    "conversionRate": "Conversion Rate"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "products": "Products"
+  },
+  "categories": {
+    "eyebrow": "Shop by category",
+    "heading": "Find what you need"
+  },
+  "pricing": {
+    "billed_yearly": "Billed yearly",
+    "eyebrow": "Simple, transparent pricing",
+    "heading": "Plans for every business",
+    "monthly": "Billed monthly",
+    "popular": "Most popular",
+    "save": "Save 25%",
+    "yearly": "per month"
+  },
+  "product": {
+    "addToCart": "Add to cart",
+    "addedToCart": "Added to cart",
+    "buyNow": "Buy now",
+    "color": "Color",
+    "inStock": "In stock",
+    "quantity": "Quantity",
+    "readReviews": "Read reviews",
+    "relatedProducts": "You might also like",
+    "reviews": "Reviews",
+    "save": "Save for later",
+    "share": "Share",
+    "size": "Size",
+    "sku": "SKU",
+    "spec": {
+      "category": "Category",
+      "colors": "Available colors",
+      "rating": "Rating",
+      "reviews": "Customer Reviews",
+      "sizes": "Available Sizes",
+      "sku": "SKU",
+      "stock": "In Stock",
+      "warranty": "Warranty"
+    },
+    "tags": "Tags",
+    "trust": {
+      "returns": "30-day returns",
+      "secure": "Secure checkout",
+      "shipping": "Free shipping on orders over $50"
+    },
+    "verifiedPurchase": "Verified Purchase",
+    "viewAll": "View all reviews"
+  },
+  "testimonials": {
+    "eyebrow": "Social proof",
+    "heading": "Loved by thousands of customers"
+  }
+}

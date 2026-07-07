@@ -1,0 +1,280 @@
+{
+  "nav": {
+    "brand": "Shopify",
+    "home": "Inicio",
+    "products": "Productos",
+    "cart": "Carrito",
+    "dashboard": "Panel de control",
+    "checkout": "Pagar"
+  },
+  "search": {
+    "placeholder": "Buscar productos...",
+    "hint": "Comienza a escribir para buscar productos",
+    "noResults": "No se encontraron productos"
+  },
+  "footer": {
+    "newsletter": {
+      "title": "Mantente informado",
+      "subtitle": "Recibe las últimas actualizaciones sobre nuevos productos y ofertas exclusivas.",
+      "placeholder": "Ingresa tu correo electrónico",
+      "cta": "Suscribirse"
+    },
+    "brand": {
+      "description": "La plataforma de comercio todo en uno para iniciar, ejecutar y hacer crecer tu negocio en línea."
+    },
+    "sections": {
+      "store": "Tienda",
+      "merchant": "Comerciante",
+      "company": "Empresa",
+      "support": "Soporte"
+    },
+    "copyright": "© {year} {brand} Inc. Todos los derechos reservados."
+  },
+  "hero": {
+    "badge": "Confiado por más de 1M de comerciantes",
+    "title": "Comercio que crece contigo",
+    "subtitle": "Lanza tu tienda en minutos. Gestiona productos, pedidos y clientes desde una plataforma poderosa.",
+    "cta": "Comenzar prueba gratuita",
+    "ctaSecondary": "Ver demostración",
+    "scrollHint": "Explorar características",
+    "cta_primary": "Comenzar a vender",
+    "cta_secondary": "Ver demostración",
+    "dash_conversion": "3.2%",
+    "dash_customers": "2.5M+",
+    "dash_label": "Comerciantes activos",
+    "dash_orders": "1.2B+",
+    "headline1": "La plataforma construida para vender",
+    "headline2": "Todo lo que necesitas para iniciar, ejecutar y hacer crecer tu negocio",
+    "subtext": "Únete a millones de emprendedores que usan Shopify para crear y escalar sus tiendas en línea.",
+    "trust1": "Confiado por más de 1M de negocios",
+    "trust2": "99.99% de disponibilidad",
+    "trust3": "Soporte 24/7"
+  },
+  "features": {
+    "title": "Todo lo que necesitas para vender",
+    "subtitle": "Desde la tienda hasta el cumplimiento, Shopify tiene todas las herramientas que tu negocio necesita.",
+    "items": {
+      "storefront": {
+        "title": "Tiendas hermosas",
+        "desc": "Elige entre más de 100 temas profesionalmente diseñados y personaliza cada detalle."
+      },
+      "payments": {
+        "title": "Pagos Integrados",
+        "desc": "Acepta tarjetas de crédito, PayPal y más de 100 pasarelas de pago en todo el mundo."
+      },
+      "analytics": {
+        "title": "Análisis Potentes",
+        "desc": "Realiza un seguimiento de ventas, tráfico y comportamiento de clientes con paneles en tiempo real."
+      },
+      "inventory": {
+        "title": "Gestión de Inventario",
+        "desc": "Sincroniza el inventario en todos los canales y recibe alertas de bajo stock automáticamente."
+      },
+      "shipping": {
+        "title": "Envíos y Cumplimiento",
+        "desc": "Imprime etiquetas, realiza un seguimiento de pedidos y ofrece tarifas de envío competitivas."
+      },
+      "marketing": {
+        "title": "Herramientas de Marketing",
+        "desc": "Ejecuta campañas de correo electrónico, códigos de descuento y anuncios en redes sociales desde un solo lugar."
+      }
+    },
+    "eyebrow": "Todo lo que necesitas",
+    "heading": "Herramientas potentes para tiendas en crecimiento",
+    "subtext": "Gestiona inventario, pagos y clientes desde un solo panel."
+  },
+  "products": {
+    "title": "Productos Destacados",
+    "subtitle": "Artículos seleccionados de nuestros mejores comerciantes",
+    "viewAll": "Ver todos los productos",
+    "addToCart": "Agregar al carrito",
+    "outOfStock": "Agotado",
+    "sale": "Oferta",
+    "eyebrow": "Comprar",
+    "heading": "Descubre nuestra colección",
+    "view_all": "Ver todos los productos"
+  },
+  "stats": {
+    "merchants": "1M+",
+    "merchantsLabel": "Comerciantes activos",
+    "countries": "175+",
+    "countriesLabel": "Países soportados",
+    "revenue": "$500B+",
+    "revenueLabel": "Ingresos totales de comerciantes",
+    "uptime": "99.99%",
+    "uptimeLabel": "Tiempo de actividad de la plataforma"
+  },
+  "cta": {
+    "title": "¿Listo para comenzar a vender?",
+    "subtitle": "Únete a más de 1 millón de negocios que confían en Shopify para potenciar su comercio.",
+    "button": "Inicia tu prueba gratuita",
+    "buttonSecondary": "Habla con ventas",
+    "disclaimer": "No se requiere tarjeta de crédito",
+    "heading": "Inicia tu prueba gratuita",
+    "placeholder": "Ingresa tu correo electrónico",
+    "subtext": "Obtén acceso instantáneo a todas las funciones. Cancela en cualquier momento."
+  },
+  "cart": {
+    "title": "Tu Carrito",
+    "empty": "Tu carrito está vacío",
+    "emptyHint": "Agrega algunos productos para comenzar.",
+    "continueShopping": "Continuar comprando",
+    "subtotal": "Subtotal",
+    "shipping": "Envío",
+    "tax": "Impuesto",
+    "total": "Total",
+    "checkout": "Proceder al pago",
+    "remove": "Eliminar"
+  },
+  "checkout": {
+    "title": "Pago",
+    "contact": "Información de contacto",
+    "shipping": {
+      "change": "Cambiar",
+      "contact": "Contacto",
+      "express": "Envío rápido",
+      "expressDetail": "Llega en 2–3 días hábiles",
+      "free": "Gratis",
+      "overnight": "Envío nocturno",
+      "overnightDetail": "Llega mañana",
+      "shipTo": "Enviar a",
+      "standard": "Envío estándar",
+      "standardDetail": "Llega en 5–7 días hábiles",
+      "title": "Método de envío"
+    },
+    "method": "Método de envío",
+    "payment": {
+      "cardName": "Nombre en la tarjeta",
+      "cardNumber": "Número de tarjeta",
+      "cvv": "CVV",
+      "expiry": "Fecha de vencimiento",
+      "sameAsBilling": "Dirección de facturación igual a la de envío",
+      "secureNote": "Tu información de pago es segura y está encriptada.",
+      "title": "Método de pago"
+    },
+    "summary": {
+      "apply": "Aplicar",
+      "couponApplied": "Cupón aplicado",
+      "couponPlaceholder": "Código de descuento o tarjeta de regalo",
+      "discount": "Descuento",
+      "free": "GRATIS",
+      "shipping": "Envío",
+      "subtotal": "Subtotal",
+      "tax": "Impuesto",
+      "title": "Resumen del pedido",
+      "toggle": "Mostrar detalles",
+      "total": "Total"
+    },
+    "placeOrder": "Realizar pedido",
+    "email": "Correo electrónico",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "address": "Dirección",
+    "city": "Ciudad",
+    "state": "Estado",
+    "zip": "Código postal",
+    "country": "País",
+    "cardNumber": "Número de tarjeta",
+    "expiry": "MM / AA",
+    "cvv": "CVV",
+    "back": "Atrás",
+    "backToCart": "Volver al carrito",
+    "continue": "Continuar",
+    "info": {
+      "address": "Dirección",
+      "apartment": "Apartamento, suite, etc. (opcional)",
+      "city": "Ciudad",
+      "contactTitle": "Información de contacto",
+      "emailOffers": "Enviarme noticias y ofertas por correo electrónico",
+      "emailPlaceholder": "Correo electrónico",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "phone": "Teléfono",
+      "saveInfo": "Guardar esta información para la próxima vez",
+      "shippingTitle": "Dirección de envío",
+      "state": "Estado",
+      "zip": "Código postal"
+    },
+    "secureCheckout": "Compra segura",
+    "success": {
+      "continueShopping": "Continuar comprando",
+      "orderNumber": "Número de pedido",
+      "subtitle": "Se ha enviado un correo de confirmación a tu bandeja de entrada.",
+      "title": "Pedido confirmado",
+      "viewOrders": "Ver tus pedidos"
+    },
+    "trust": {
+      "returns": "Devoluciones en 30 días",
+      "secure": "Compra segura",
+      "ssl": "Encriptado SSL"
+    }
+  },
+  "dashboard": {
+    "title": "Panel de control",
+    "overview": "Descripción general",
+    "orders": "Pedidos",
+    "products": "Productos",
+    "customers": "Clientes",
+    "analytics": "Análisis",
+    "discounts": "Descuentos",
+    "inventory": "Inventario",
+    "revenue": "Ingresos Totales",
+    "totalOrders": "Pedidos Totales",
+    "newCustomers": "Nuevos Clientes",
+    "conversionRate": "Tasa de Conversión"
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "products": "Productos"
+  },
+  "categories": {
+    "eyebrow": "Comprar por categoría",
+    "heading": "Encuentra lo que necesitas"
+  },
+  "pricing": {
+    "billed_yearly": "Facturación anual",
+    "eyebrow": "Precios simples y transparentes",
+    "heading": "Planes para cada negocio",
+    "monthly": "Facturación mensual",
+    "popular": "Más popular",
+    "save": "Ahorra 25%",
+    "yearly": "por mes"
+  },
+  "product": {
+    "addToCart": "Añadir al carrito",
+    "addedToCart": "Añadido al carrito",
+    "buyNow": "Comprar ahora",
+    "color": "Color",
+    "inStock": "En stock",
+    "quantity": "Cantidad",
+    "readReviews": "Leer reseñas",
+    "relatedProducts": "También te podría interesar",
+    "reviews": "Reseñas",
+    "save": "Guardar para después",
+    "share": "Compartir",
+    "size": "Tamaño",
+    "sku": "SKU",
+    "spec": {
+      "category": "Categoría",
+      "colors": "Colores disponibles",
+      "rating": "Calificación",
+      "reviews": "Reseñas de Clientes",
+      "sizes": "Tamaños Disponibles",
+      "sku": "SKU",
+      "stock": "En Stock",
+      "warranty": "Garantía"
+    },
+    "tags": "Etiquetas",
+    "trust": {
+      "returns": "Devoluciones en 30 días",
+      "secure": "Compra segura",
+      "shipping": "Envío gratis en pedidos superiores a $50"
+    },
+    "verifiedPurchase": "Compra Verificada",
+    "viewAll": "Ver todas las reseñas"
+  },
+  "testimonials": {
+    "eyebrow": "Prueba social",
+    "heading": "Amado por miles de clientes"
+  }
+}
